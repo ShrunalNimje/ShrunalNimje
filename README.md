@@ -1,13 +1,15 @@
 [![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Shrunal Nimje</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrunalnimje&label=Profile%20views&color=0e75b6&style=flat" alt="shrunalnimje" /> </p>
 
-- 🌱 I’m currently learning **Java Programing**
+- 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Core & Advanced java, Basics of C & Python**
+- 🌱 I had completed **Java Programming**
+
+- 💬 Ask me about **Core & Advanced java, Kotlin, Basics of C & Python**
 
 - 📫 How to reach me **shrunalnimje@gmail.com**
 
