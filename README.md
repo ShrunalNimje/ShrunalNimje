@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrunalnimje&label=Profile%20views&color=0e75b6&style=flat" alt="shrunalnimje" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
 
-- 🌱 I had completed **Java Programming**
+- 🌱 I had completed **Java Programming & Database SQL**
 
-- 💬 Ask me about **Core & Advanced java, Kotlin, Basics of C & Python**
+- 💬 Ask me about **Java Programming, Kotlin, Basics of Database SQL**
 
 - 📫 How to reach me **shrunalnimje@gmail.com**
 
