@@ -23,6 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrunalnimje&show_icons=true&theme=dark&text_color=ffffff&cache_seconds=1807&locale=en" alt="shrunalnimje" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrunalnimje&theme=dark" alt="shrunalnimje" /></p>
 
 
