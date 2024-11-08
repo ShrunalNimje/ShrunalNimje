@@ -1,7 +1,7 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://camo.githubusercontent.com/2a50a7d7ae5024f74fad6ea1cab81c197e975e028147bb9a3d3441296f05af88/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067)
 <h1 align="center">Hi 👋, I'm Shrunal Nimje</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBjYzY4NDFsczJmbm51Mm9sNnhidW1wcWRpN3k4dTdncGl6MGRlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Wb4bo1FHja9jRM3rY/giphy.webp">
 
 - 🔭 I’m currently working on **Rest API Project with Spring Boot**
 
