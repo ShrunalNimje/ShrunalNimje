@@ -47,5 +47,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrunalnimje&show_icons=true&theme=dark&locale=en&layout=compact" alt="shrunalnimje" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrunalnimje&show_icons=true&theme=dark&locale=en" alt="shrunalnimje" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrunalnimje&theme=dark" alt="shrunalnimje" /></p>
