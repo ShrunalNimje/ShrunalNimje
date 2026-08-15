@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-_3_ipcZvFRHarkDXpH3l2wBJQpJnEG_MBBAx0MHdg&s=10" alt="MasterHead" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Shrunal Nimje</h1>
 <h3 align="center">Programmer Analyst Trainee @ Cognizant</h3>
 <img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/GyOVjkiasAAV-yb.jpg">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrunalnimje" alt="shrunalnimje" /></a> </p>
 
 - 🔭 I’m currently working on **Splunk Cisco Team**
 
